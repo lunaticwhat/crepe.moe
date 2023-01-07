@@ -4,7 +4,7 @@ import { generateRandomString, r } from './util';
 
 const DEFAULT_CONFIG = {
     // MongoDB
-    MONGO_URI: "mongodb://localhost:27017/crepemoe",
+    MONGO_URI: "mongodb://127.0.0.1:27017/crepemoe",
 
     // HTTP,
     HTTP_HOST: "0.0.0.0",
